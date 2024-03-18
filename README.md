@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kishanbindal
-- 👀 I’m interested in Computer Vision
+- 👀 I’m interested in Computer Vision and App Development
 - 🌱 I’m currently learning Data Visualisation tools that Python has on offer
-- 💪 I'm currently working on a 3D scene perception.
 - 📫 Reach out to me on my email Id: kishan.bindal@gmail.com
 
 <!---
